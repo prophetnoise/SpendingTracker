@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 /Users/Prophetnoise/Documents/CodingProjects/BudgetTracker/gui/budget_tracker_GUI.py
+
